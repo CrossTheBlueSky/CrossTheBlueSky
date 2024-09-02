@@ -4,7 +4,7 @@
 
 Hello! I'm Derek, a full stack software engineer specializing in the MERN stack. I'm passionate about building robust and user-friendly web applications.
 
-### 🛠 Skills & Technologies
+### Skills & Technologies
 
 - **Frontend:** React, JavaScript, HTML, CSS
 - **Backend:** Node.js, Express, Python
