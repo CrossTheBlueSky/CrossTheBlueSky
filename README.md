@@ -2,7 +2,7 @@
 
 ## Full Stack Software Engineer
 
-Hello! I'm Derek, a full stack software engineer specializing in the MERN stack. I'm passionate about building robust and user-friendly web applications.
+Hello! I'm Derek, a full stack software engineer specializing in the MERN stack. I'm passionate about building robust and user-friendly web applications. I believe that technology is at its best when it's strengthening the human element, and that's what drives me as a developer.
 
 ### Skills & Technologies
 
