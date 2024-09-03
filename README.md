@@ -26,10 +26,4 @@ Hello! I'm Derek, a full stack software engineer specializing in the MERN stack.
 
 - Recently completed Full-Stack Software Engineering Bootcamp at Flatiron School
 
-### Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/derek-mercedes)
-- [Personal Website](https://www.derekmercedes.com)
-- [Dev.to Blog](https://www.dev.to/crossthebluesky)
-
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about tech!
