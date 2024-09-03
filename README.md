@@ -19,7 +19,7 @@ Hello! I'm Derek, a full stack software engineer specializing in the MERN stack.
 
 ### Current Focus
 
-- Working towards AWS Practitioner certification
+- Preparing to take the AWS CLF-C02 Exam
 - Expanding proficiency in cloud services and machine learning technologies
 
 ### Education
