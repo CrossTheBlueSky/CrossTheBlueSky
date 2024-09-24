@@ -2,7 +2,7 @@
 
 ## Full Stack Software Engineer
 
-Hello! I'm Derek, a full stack software engineer specializing in the MERN stack. I'm passionate about building robust and user-friendly web applications. I believe that technology is at its best when it's strengthening the human element, and that's what drives me as a developer.
+Hello! I'm Derek, a full stack software engineer specializing in the MERN stack and AWS. I'm passionate about building robust and user-friendly web applications. I believe that technology is at its best when it's strengthening the human element, and that's what drives me as a developer.
 
 View my resume [HERE](https://www.derekmercedes.com/resume.pdf)
 ### Skills & Technologies
@@ -11,7 +11,7 @@ View my resume [HERE](https://www.derekmercedes.com/resume.pdf)
 - **Frontend:** React, Vue, TailwindCSS, Bootstrap
 - **Backend:** Node.js, Express, Python
 - **Database:** MongoDB, SQLAlchemy, PostgreSQL
-- **Additional:** Java, C#, Amazon Web Services
+- **Additional:** Java, C#, Amazon Web Services Certified Developer Associate (DVA-CO2)
 
 ### Recent Projects
 
